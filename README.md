@@ -19,7 +19,7 @@ A real-time preemptive priority-based task scheduler developed in Python for the
 ## How to Run
 
 1. Clone the repository:
-   git clone https://github.com/md-ibna-labid/Distributed-Task-Scheduler.git
+   git clone https://github.com/mdibnalabid/Distributed-Task-Scheduler.git
 
 2. Navigate to the folder:
    cd Distributed-Task-Scheduler
